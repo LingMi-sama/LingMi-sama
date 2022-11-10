@@ -1,5 +1,5 @@
 ![miao.svg](https://raw.githubusercontent.com/LingMi-sama/LingMi-sama/master/miao.svg)
-!https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 
 
 
