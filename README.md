@@ -1,5 +1,7 @@
 ![miao.svg](https://raw.githubusercontent.com/LingMi-sama/LingMi-sama/master/miao.svg)
 
+### _Hi there 👋
+
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LingMi-sama&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=LingMi-sama&count_private=true&show_icons=true" height=145/></span>
 
 
@@ -8,7 +10,7 @@
 
 
 
-#### Frontend
+
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
